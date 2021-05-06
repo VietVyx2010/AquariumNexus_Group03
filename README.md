@@ -19,7 +19,7 @@ Group: 03
 
 ========================================
 
-Documentations: https://github.com/VietVyx2010/NexusAquarium_group3/tree/main/documentations
+Documentations: https://github.com/VietVyx2010/AquariumNexus_Group03/tree/main/Documentations
 
 ========================================
 
