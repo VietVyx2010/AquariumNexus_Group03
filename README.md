@@ -23,7 +23,7 @@ Documentations: https://github.com/VietVyx2010/NexusAquarium_group3/tree/main/do
 
 ========================================
 
-Published website: https://vietvyx2010.github.io/NexusAquarium_group3/
+Published website: https://vietvyx2010.github.io/AquariumNexus_Group03/
 
 =========================================
 
