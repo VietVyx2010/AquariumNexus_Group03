@@ -11,11 +11,13 @@ Group: 03
 
 +List of member:
 
-1 Phùng Hà Uyển Vy Student1291658
+1 Dương Nhứt Nam Student1291659
 
-2 Huỳnh Gia Kiệt Student1291657
+2 Phùng Hà Uyển Vy Student1291658
 
-3 Trần Lê Minh Ý Student1291656
+3 Huỳnh Gia Kiệt Student1291657
+
+4 Trần Lê Minh Ý Student1291656
 
 ========================================
 
